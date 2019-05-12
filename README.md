@@ -20,3 +20,13 @@ For instance, you could say
 
 6. What is your biggest concern regarding your project? (a few sentences max).
     I am still confused on what way we will be analyzing the data, but I contacted my mentor to discuss with him the plans for the project. I am also concerned about the actual coding of the data and making sure that I am analyzing the data correctly.
+
+## Grade Discussion 5 (week5): 20/20 Nice work!!! :thumbsup:
+
+| **Rubric** | **5pt** | **4pt** | **3pt** | **2pt** | **1pt** |
+| --- | ---| --- | --- | --- | --- |
+| In-Lab work | **X** | | | |
+| Questions | **X** | | | |
+| Project README.md | **X** | | | |
+| Challenges - Timely Submission | **X** | | | |
+
